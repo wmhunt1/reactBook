@@ -1,3 +1,11 @@
-.App {
+.App H1{
   text-align: center;
+}
+
+.page-number{
+  text-align: right;
+}
+p {
+  margin-left: 10px;
+  margin-right: 10px;
 }
